@@ -1,6 +1,7 @@
 package method;
 
 public class Calculation {
+
     int a = 10;//non-static
     int x = 15;  //non-static
     int y = 20; //non-static
